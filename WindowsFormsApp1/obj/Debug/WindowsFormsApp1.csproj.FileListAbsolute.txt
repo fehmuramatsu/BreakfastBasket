@@ -1,0 +1,24 @@
+C:\Users\A6-7480\Desktop\Projeto Cesta de Café da Manhã\Cesta_de_Cafe_da_manha\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\A6-7480\Desktop\Projeto Cesta de Café da Manhã\Cesta_de_Cafe_da_manha\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\A6-7480\Desktop\Projeto Cesta de Café da Manhã\Cesta_de_Cafe_da_manha\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\A6-7480\Desktop\Projeto Cesta de Café da Manhã\Cesta_de_Cafe_da_manha\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\A6-7480\Desktop\Projeto Cesta de Café da Manhã\Cesta_de_Cafe_da_manha\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\A6-7480\Desktop\Projeto Cesta de Café da Manhã\Cesta_de_Cafe_da_manha\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\A6-7480\Desktop\Projeto Cesta de Café da Manhã\Cesta_de_Cafe_da_manha\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\A6-7480\Desktop\Projeto Cesta de Café da Manhã\Cesta_de_Cafe_da_manha\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\A6-7480\Desktop\Projeto Cesta de Café da Manhã\Cesta_de_Cafe_da_manha\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\A6-7480\Desktop\Projeto Cesta de Café da Manhã\Cesta_de_Cafe_da_manha\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\A6-7480\Desktop\Projeto Cesta de Café da Manhã\Cesta_de_Cafe_da_manha\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\A6-7480\Desktop\Projeto Cesta de Café da Manhã\Cesta_de_Cafe_da_manha\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\A6-7480\Documents\Projetos Faculdade\Projeto Cesta de Café da Manhã\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\A6-7480\Documents\Projetos Faculdade\Projeto Cesta de Café da Manhã\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\A6-7480\Documents\Projetos Faculdade\Projeto Cesta de Café da Manhã\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\A6-7480\Documents\Projetos Faculdade\Projeto Cesta de Café da Manhã\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\A6-7480\Documents\Projetos Faculdade\Projeto Cesta de Café da Manhã\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\A6-7480\Documents\Projetos Faculdade\Projeto Cesta de Café da Manhã\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\A6-7480\Documents\Projetos Faculdade\Projeto Cesta de Café da Manhã\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\A6-7480\Documents\Projetos Faculdade\Projeto Cesta de Café da Manhã\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\A6-7480\Documents\Projetos Faculdade\Projeto Cesta de Café da Manhã\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\A6-7480\Documents\Projetos Faculdade\Projeto Cesta de Café da Manhã\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\A6-7480\Documents\Projetos Faculdade\Projeto Cesta de Café da Manhã\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\A6-7480\Documents\Projetos Faculdade\Projeto Cesta de Café da Manhã\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
