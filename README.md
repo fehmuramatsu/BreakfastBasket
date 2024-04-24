@@ -1,5 +1,7 @@
-Here is an academic project developed in C# language!
+Este é um projeto acadêmico desenvolvido como trabalho na disciplina Estrutura de Dados a partir do enunciado para que fosse desenvolvido uma aplicação de cestas de café da manhã.
 
-The main objective was to develop a breakfast basket system where the user should have the option of choosing existing breakfast baskets, or preparing their own breakfast basket.
+O projeto foi todo desenvolvido em linguagem C#, de tal forma que os conhecimentos acerca dessa linguagem, pudessem ficar mais sólidos.
 
-Hope you enjoy it! (:
+This is an academic project developed as work in the Data Structure discipline based on the statement to develop a breakfast basket application.
+
+The entire project was developed in the C# language, so that knowledge about this language could become more solid.
